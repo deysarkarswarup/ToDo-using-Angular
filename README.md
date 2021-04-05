@@ -1,5 +1,7 @@
 # ToDo-using-Angular
 
+A simple To Do App made using Angular. This project is part of a crash course by [Hitesh Choudhary](https://youtu.be/T_Fe4IaG0KU) and customized by me.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
